@@ -1,0 +1,3 @@
+/Users/asa/Desktop/AR/Project1/build/CMakeFiles/hello_window.dir
+/Users/asa/Desktop/AR/Project1/build/CMakeFiles/edit_cache.dir
+/Users/asa/Desktop/AR/Project1/build/CMakeFiles/rebuild_cache.dir

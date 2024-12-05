@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/asa/Desktop/AR/Project1/build",
+  "command": "/usr/bin/clang++  -I/Users/asa/Desktop/AR/Project1/dependencies -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=15.0 -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /Users/asa/Desktop/AR/Project1/src/main.cpp",
+  "file": "/Users/asa/Desktop/AR/Project1/src/main.cpp",
+  "output": "CMakeFiles/hello_window.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/asa/Desktop/AR/Project1/build",
+  "command": "/usr/bin/clang  -I/Users/asa/Desktop/AR/Project1/dependencies -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=15.0 -o CMakeFiles/hello_window.dir/src/glad.c.o -c /Users/asa/Desktop/AR/Project1/src/glad.c",
+  "file": "/Users/asa/Desktop/AR/Project1/src/glad.c",
+  "output": "CMakeFiles/hello_window.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/asa/Desktop/AR/Project1/build",
+  "command": "/usr/bin/clang++  -I/Users/asa/Desktop/AR/Project1/dependencies -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=15.0 -o CMakeFiles/hello_window.dir/src/camera.cpp.o -c /Users/asa/Desktop/AR/Project1/src/camera.cpp",
+  "file": "/Users/asa/Desktop/AR/Project1/src/camera.cpp",
+  "output": "CMakeFiles/hello_window.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/Users/asa/Desktop/AR/Project1/build",
+  "command": "/usr/bin/clang++  -I/Users/asa/Desktop/AR/Project1/dependencies -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=15.0 -o CMakeFiles/hello_window.dir/src/shaders.cpp.o -c /Users/asa/Desktop/AR/Project1/src/shaders.cpp",
+  "file": "/Users/asa/Desktop/AR/Project1/src/shaders.cpp",
+  "output": "CMakeFiles/hello_window.dir/src/shaders.cpp.o"
+}
+]
